@@ -1,0 +1,4 @@
+interface Hello
+{
+	string say_hello(in string client);
+};
